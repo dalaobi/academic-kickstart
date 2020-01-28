@@ -9,7 +9,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of University of Texas at Arlington
 
 # Organizations/Affiliations
 organizations:
@@ -17,12 +17,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- programming
 - Information Retrieval
+
 
 education:
   courses:
