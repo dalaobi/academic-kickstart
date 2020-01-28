@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "china"
   date_start = "2019-02-01"
   date_end = ""
-  description = "mapping"
+  description = """mapping"""
   Responsibilities include:
   
   * Analysing
